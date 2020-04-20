@@ -265,23 +265,22 @@ iframe{
     font-weight: bolder;
     text-align: center;
     font-size: xx-large;
-    display: none;
+
   }
   .txt_pequena_esporte p {
     color: snow;
     text-align: center;
     font-size: small;
-    display: none;
     margin-top: 50px;
   }
  .musicas{
 display: none;
  }
  .img_pequena_gossip img {
-  max-width: 250px;
+  max-width: 300px;
   background-color: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  margin-left: 30px;
+  margin-left: 22px;
   margin-bottom: 20px;
   align-items: center;
 }
@@ -310,25 +309,30 @@ display: none;
     margin-bottom: 20px;
   }
   .banner3 img{
-    max-width: 50%;
+    max-width: 90%;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin-right: 30px;
     margin-bottom: 20px;
-    display: none;
   }
   .img_pequena img {
     max-width: 300px;
     background-color: white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    margin-right: 30px;
+    margin-left: 20px;
     margin-bottom: 35px;
   }
   .banner2 img{
-    max-width: 90px;
+    max-width: 90%;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin-right: 30px;
     margin-bottom: 20px;
-    display: none;
+  }
+  .destaque img{
+    max-width: 90%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 20px;
+    margin-top: 40px;
+    margin-left: 20px;
   }
  }
 /* FIM CONTEUDO */
@@ -355,12 +359,12 @@ display: none;
   right: 20px;
 }
 .img_grande_esporte img {
-  max-width: 300px;
+  max-width: 250px;
   background-color: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin-left: 30px;
   margin-bottom: 20px;
-  right: 40px;
+
 }
 /* FIM BANNER1 */
 /* BANNER2 */
