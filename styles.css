@@ -171,13 +171,14 @@
   text-align: left;
   font-size: small;
   margin-bottom: 60px;
+  margin-left: 50px;
 }
 .txt_pequena_video h3 {
   color: #3194ff;
   font-weight: bolder;
   text-align: left;
   font-size: xx-large;
-  
+  margin-left: 45px;
 
 }
 .img_pequena_video img {
