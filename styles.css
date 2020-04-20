@@ -11,8 +11,9 @@
   margin-bottom: 20px;
   text-align: center;
 }
-.banner {
+.banner img{
   margin-top: 30px;
+  max-width: 110%;
 }
 @media (max-width: 1024px) {
  .banner {
@@ -23,6 +24,9 @@
  }
 .dropdown button{
   background-color: #3c3e4f;
+}
+.nav nav{
+  display: none;
 }
 }
 
@@ -122,6 +126,11 @@
   text-align: center;
   font-size: large;
 
+}
+.txt_pequena_gossip h1 {
+  color: #e67f8e;
+  font-weight: bolder;
+  text-align: center;
 }
 .img_pequena_gossip img {
   max-width: 250px;
@@ -265,7 +274,17 @@ iframe{
     display: none;
     margin-top: 50px;
   }
-
+ .musicas{
+display: none;
+ }
+ .img_pequena_gossip img {
+  max-width: 250px;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-left: 30px;
+  margin-bottom: 20px;
+  align-items: center;
+}
  }
  @media (max-width: 720px)
  {
@@ -291,7 +310,21 @@ iframe{
     margin-bottom: 20px;
   }
   .banner3 img{
-    width: 50%;
+    max-width: 50%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-right: 30px;
+    margin-bottom: 20px;
+    display: none;
+  }
+  .img_pequena img {
+    max-width: 300px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-right: 30px;
+    margin-bottom: 35px;
+  }
+  .banner2 img{
+    max-width: 90px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin-right: 30px;
     margin-bottom: 20px;
