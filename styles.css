@@ -335,6 +335,9 @@ display: none;
     margin-top: 40px;
     margin-left: 20px;
   }
+  .footer_extras{
+    display: none;
+  }
  }
 /* FIM CONTEUDO */
 /* BANNER1 */
